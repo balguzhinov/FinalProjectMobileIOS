@@ -1,6 +1,1 @@
-# FinalProjectMobileIOS![Simulator Screen Shot - iPhone 12 mini - 2022-06-11 at 01 13 13]![login](https://user-images.githubusercontent.com/75177898/173248894-90bfe071-667c-41a3-aa52-fccc03a1ba47.png)
-![profile](https://user-images.githubusercontent.com/75177898/173248897-2677c85f-b05e-43e2-b8ec-35c0abb1fe6e.png)
-![moodle](https://user-images.githubusercontent.com/75177898/173248903-27f0fbd6-6694-4869-b83c-37d13c964b65.png)
-![tasks](https://user-images.githubusercontent.com/75177898/173248914-cdc46f1f-3f41-487b-93a5-cfae0550635f.png)
-![news1](https://user-images.githubusercontent.com/75177898/173248918-96584a9b-3930-4d3f-bc0b-6d7bb406629a.png)
-![news2](https://user-images.githubusercontent.com/75177898/173248921-6a7b6427-152e-4422-8352-63713d019560.png)
+# FinalProjectMobileIOS![Simulator Screen Shot - iPhone 12 mini - 2022-06-11 at 01 13 13]![login]![Merged_document](https://user-images.githubusercontent.com/75177898/173249046-0089d31e-f083-47b3-b643-de90d5505935.png)
